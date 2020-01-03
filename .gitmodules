@@ -1,0 +1,3 @@
+[submodule "blog/themes/elephants"]
+	path = blog/themes/elephants
+	url = https://gitlab.com/meibenny/elephants.git
